@@ -1,4 +1,4 @@
-	$('.switch').on('click', function(e) {
+$('.switch').on('click', function(e) {
 $('#fulljogo').toggleClass('jogo jogofull');
 $('#telapequena').toggleClass('switch switch2');
 });
